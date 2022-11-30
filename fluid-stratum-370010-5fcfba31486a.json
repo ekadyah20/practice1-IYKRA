@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluid-stratum-370010",
+  "private_key_id": "5fcfba31486a1705b205c1f5db49c3844b520a1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCEvxuwiJn7hz4P\nf4BsQxykRP7ZaaP7um2EKYrmLBGNNbWmE8jHX2PztV3JpbHqNbA+Evr9/czQfmfM\nlhX5m2oXpNmjt3uO1eQW1ZzoGpbAjRZgIDS9Dszr/lDdPfs6d14glpWKqVnYFIl0\ni95yVWW9/4Qs7Y4wQdFsqKVrMNB52qqvE96ru7uLIs5r8x+C3Lk8iHjSbTPdrpE1\nzOnIDww0fIxuP+jLO9/Fl/40V2IhZJ6wNuOUjuC1Ki5OS+LdFeL/Z9JaFBxK3tBC\nNVWYqgkc6lC9GPlsA0hbLVG5iboaI84Ct6BV+uIO2xO2t1HiRrdb9MISCGRX1SUr\nbxu3sLKbAgMBAAECggEAL6qkGb7jdBN7MHt7NOTgawgvbwhlDuZBnxx/uOkIIGmx\n4YHnLdhN/twYYmkyOsSulYuhPwUcv500Tp1yJKAu93CFiik/n+mkLqLj5eBuU5QV\n/cxyw5SF9xPqG5e/F553WUJZTmJDVbkCJqx24x1RHGmdH7jpvuBTgC4KwDPWGHrt\nOzcTRu7l2C98sLM3SYx0H0UkbD1fZAJom8FCBrjp/DMydvTlyi+mrMle83HFI2Hz\nn7uh7CJKS645VIQhmohsaUqwb34YwjGiucYjFc8OJGEAIRVLfg56LUx7TYI5GnOg\nAlOAPVbl4UVzWGRNh5Fht+CQrpjxYAHeZ88Ymb9c2QKBgQC6WPO9sGGf5w08oqmE\nfbW2o+hcfQbDisWQnbUsxlbCPvR6PCtNaojdZEjVPM2ufT+1D4FUL9IBQnbwT61z\n1OdNI/fi42ERYcXhoCM6o+l5n2+ZpihwdYPHPaK4+CkYoWPHX0SvhcgxzEhKAfr8\njbUR9jeT3w4ZSc6oS+3Q7dstZQKBgQC2XTySAfmZBhgxSFCfSXiff1zwtREGq1Td\nf7GuGoXs5Mbi4lEJ9IUuK+r2ZUKHfsavMVhIOBRzHzE+8aAIEnYytw8ZcPMoJfqr\nY71EQv+iN8qI8VmtxXg+93XE3f4e5wmlQY9ka0zFu2gKStxRBiBNMWk8sryttgRU\nUnY/BQ5f/wKBgBdbCsGdl77I4LnW0VRPxTSs+nSNHwnnHLfxbEG+YiVaap3faLX9\nQkYtSYugYU8bV57D4LvCepm50NpxwhWge5UJiwoe4Y2iKYEL5x50aNDbkMs7Lhpa\nQDf6m6h/QfdaUv0sDZnKNLs5FV5hPSnmQOmNaI3aCRRWUdZ6HcZv6WaZAoGASAlM\ng+CD2A6wP8dxEXrUSyzkabEcqKXFQDnQ1hVkEc/NQJJlsKkGctamWe5l+V/62/mC\nBgUhDtije1m2/XlNd3sYW9RiONnHyyv695v/nvSq7K1p31rBxR27R6jpWQuqo7zi\nB6jbCsCcuHQZ02e4GsYJ7BAut+/OhgCM9RfqNcECgYAdUzF6u0r9PQn/6GUpgFrY\n0upd+7rfmrAQnNKQJ8rJ9brvYheUyMLa8GWtmiuIfDcSEUbQ58RbwOL9iMd0VtWC\nkHSmfC9QN+/KUCuyWEoTTtRhBQ52L+ZFSRXNKDnxmyP0dEAZIB7AMalLUiUX9T1j\n8Mj1AcnxWrPPuLUghJJZpQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "practice-1-iykra@fluid-stratum-370010.iam.gserviceaccount.com",
+  "client_id": "108795279104416702289",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/practice-1-iykra%40fluid-stratum-370010.iam.gserviceaccount.com"
+}
